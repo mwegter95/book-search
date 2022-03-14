@@ -30,7 +30,6 @@ mutation saveBook($newBook: BookInput!) {
         _id
         username
         email
-        bookCount
         savedBooks {
             bookId
             authors
