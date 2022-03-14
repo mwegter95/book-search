@@ -16,6 +16,8 @@ To install, download the zip or do a git clone, then in the root directory in te
 
 ## Usage
 See install instructions. ```npm run develop```
+## Live deployment
+Here is the live app on Heroku that you can use: [https://polar-atoll-87978.herokuapp.com/](https://polar-atoll-87978.herokuapp.com/)
 
 
 
