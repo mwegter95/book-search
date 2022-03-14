@@ -1,7 +1,7 @@
 # 21 MERN Book Search
 
 ## Description
-To complete this challenge for U of MN Full Stack bootcamp, I had to tak a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Pollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. All tasks accomplished,including:
+To complete this challenge for U of MN Full Stack bootcamp, I had to take a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Pollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. All tasks accomplished,including:
 
 * Set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
 
